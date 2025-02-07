@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Bhumika! 👋
+
+I'm a final-year student at IIT Madras with a passion for exploring the world of data and AI! I'm currently diving deep into generative AI and love working on creative, real-world projects. Take a peek at my projects—who knows, you might find something fun!
 
 <!--
 **bhumikaxyz/bhumikaxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
